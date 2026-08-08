@@ -241,3 +241,8 @@ wallet_generator/
 ## 📄 License
 
 MIT License
+
+
+## 🎬 Demo Video
+
+[▶️ Watch Demo Video](./demo.mp4)
