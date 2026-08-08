@@ -247,3 +247,12 @@ MIT License
 ## 🎬 Demo Video
 
 [▶️ Watch Demo Video](./demo.mp4)
+
+
+
+
+## 🎬 Demo Video
+
+<video width="800" controls>
+  <source src="./demo.mp4" type="video/mp4">
+</video>
